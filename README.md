@@ -9,7 +9,7 @@ The Library Management System is a SQL-based project designed to manage book inv
 3.CTAS (Create Table As Select): Utilize CTAS to create new tables based on query results.
 4.Advanced SQL Queries: Develop complex queries to analyze and retrieve specific data.
 
-##Task 1: Database Setup
+### Task 1: Database Setup
 ![erd](https://github.com/user-attachments/assets/5809487f-226d-45f9-b847-c556340ac552)
 
 
